@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abir hasnat borno</h1>
 <h3 align="center">Programmer | Web Designer | scout| Speed Learner|voice artist</h3>
-<h4 align="center">I am a student and i am a begganer level web designer</h4>
+<h4 align="center">I am a student and I am a beginner level web designer</h4>
 
 <div align="center">
 
